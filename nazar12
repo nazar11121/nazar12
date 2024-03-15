@@ -1,0 +1,32 @@
+<html>
+<h1>
+<title>кав'ярня</title>
+<body style="background-color:peru">
+<header><h1 style="font-size:40px">чарівна кав'ярня</h1></header>
+<main>
+    <p style="font-size:20px">Смачна кава — це привід зустрітися, драйвер нових ідей, спусковий механізм, який заряджає енергією діяти та підкорювати нові вершини. Втілюй мрії в життя з улюбленою кавою в чорно-бірюзовому стаканчику!</p>
+<img src="https://kavovar.kyiv.ua/wp-content/uploads/2019/12/kofe-33.jpg" height="250px">
+<table style="border:1px solid brown">
+    <tr>
+    <td rowspan="3" >графік роботи
+    </td>
+    <td style="border:1px solid brown">понеділок,вівторок,середа</td>
+    <td style="border:1px solid brown">10:00-21:00</td>
+    </tr>
+
+    <tr>
+   
+    <td style="border:1px solid brown">четвер,п'ятниця</td>
+    <td style="border:1px solid brown">10:00-19:00</td>
+    </tr>
+    <tr>
+    <td style="border:1px solid brown">субота,неділя</td>
+    <td style="border:1px solid brown">10:00-16:00</td>
+    </tr>
+</table>
+
+</main>
+<footer>вулиця Шевченка,55</footer>
+</body>
+</h1>
+</html>
